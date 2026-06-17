@@ -4,7 +4,7 @@
  \ V  V / |  _|| |_/ _` / -_)
   \_/\_/|_|_|(_)_(_)__,_\___|
 ==============================
-[ WifideReact ] IDE @ Wi-Fi for ReactJS
+[ WifideReact ] IDE @ Wi-Fi Network for ReactJS
 ==============================
 
 
